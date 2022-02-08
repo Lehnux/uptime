@@ -3,12 +3,28 @@ owner: Lehnux # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Blog
+    url: https://lehnux.wordpress.com/
+  - name: Tutanota E-Mail Service
+    url: https://mail.tutanota.com/
+  - name: Tarsnap Service
+    url: https://www.tarsnap.com/
+  - name: Blog Alias
+    url: https://blog.lehnux.net/
+  - name: NMS
+    url: https://nms.lehnux.net/
+  - name: HA Proxy
+    url: https://proxy.lehnux.net/
+  - name: Sabnzb
+    url: https://sabnzb.lehnux.net/
+  - name: Radarr
+    url: https://radarr.lehnux.net/
+  - name: Plex Media Server
+    url: https://plex.lehnux.net/
+  - name: Sonarr
+    url: https://sonarr.lehnux.net/
+  - name: Deluge
+    url: https://deluge.lehnux.net/
 assignees: # Users to assign downtime issues (optional)
   - Lehnux
 status-website:
@@ -19,7 +35,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Lehnux
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
