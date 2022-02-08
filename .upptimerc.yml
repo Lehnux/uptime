@@ -11,6 +11,8 @@ sites:
     url: https://www.tarsnap.com/
   - name: Webmail Service
     url: https://webmail.lehnux.net
+  - name: Nextcloud Hosted
+    url: https://cloud.lehnux.net
   - name: Blog Alias
     url: https://blog.lehnux.net/
   - name: NMS
@@ -29,8 +31,8 @@ sites:
     url: https://rtr.lehnux.net/
   - name: VPN Service
     url: https://vpn.lehnux.net
-  - name: Nextcloud
-    url: https://cloud.lehnux.net
+  - name: Nextcloud Internal
+    url: https://next.lehnux.net
 assignees: # Users to assign downtime issues (optional)
   - Lehnux
 status-website:
