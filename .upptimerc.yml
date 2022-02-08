@@ -9,8 +9,6 @@ sites:
     url: https://mail.tutanota.com/
   - name: Tarsnap Service
     url: https://www.tarsnap.com/
-  - name: Webmail Service
-    url: https://webmail.lehnux.net
   - name: Nextcloud Hosted
     url: https://cloud.lehnux.net
   - name: Blog Alias
