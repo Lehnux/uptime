@@ -9,6 +9,8 @@ sites:
     url: https://mail.tutanota.com/
   - name: Tarsnap Service
     url: https://www.tarsnap.com/
+  - name: Webmail Service
+    url: https://webmail.lehnux.net
   - name: Blog Alias
     url: https://blog.lehnux.net/
   - name: NMS
@@ -23,8 +25,12 @@ sites:
     url: https://plex.lehnux.net/
   - name: Sonarr
     url: https://sonarr.lehnux.net/
-  - name: Deluge
-    url: https://deluge.lehnux.net/
+  - name: Router
+    url: https://rtr.lehnux.net/
+  - name: VPN Service
+    url: https://vpn.lehnux.net
+  - name: Nextcloud
+    url: https://cloud.lehnux.net
 assignees: # Users to assign downtime issues (optional)
   - Lehnux
 status-website:
