@@ -31,7 +31,7 @@ This repository contains the status page for [Lehnux Services](https://lehnux.ne
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://lehnux.net)
+[**Visit the status website →**](https://uptime.lehnux.net)
 
 ## 📄 License
 
