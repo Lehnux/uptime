@@ -31,8 +31,6 @@ sites:
     url: https://vpn.lehnux.net
   - name: Nextcloud Internal
     url: https://next.lehnux.net
-  - name: Netdata
-    url: https://netdata.lehnux.net/
   - name: FlyingIT Site
     url: http://flyingit.rocks
 assignees: # Users to assign downtime issues (optional)
