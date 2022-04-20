@@ -5,10 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: Blog
     url: https://lehnux.wordpress.com/
-  - name: Tutanota E-Mail Service
-    url: https://mail.tutanota.com/
-  - name: Tarsnap Service
-    url: https://www.tarsnap.com/
   - name: Nextcloud Hosted
     url: https://cloud.lehnux.net
   - name: Blog Alias
@@ -29,8 +25,6 @@ sites:
     url: https://vpn.lehnux.net
   - name: Nextcloud Internal
     url: https://next.lehnux.net
-  - name: FlyingIT Site
-    url: http://flyingit.rocks
 assignees: # Users to assign downtime issues (optional)
   - Lehnux
 status-website:
