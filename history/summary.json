@@ -2,7 +2,7 @@
   {
     "name": "Blog",
     "url": "https://lehnux.wordpress.com/",
-    "icon": "https://favicons.githubusercontent.com/lehnux.wordpress.com",
+    "icon": "https://icons.duckduckgo.com/ip3/lehnux.wordpress.com.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -20,14 +20,14 @@
   {
     "name": "Nextcloud Hosted",
     "url": "https://cloud.lehnux.net",
-    "icon": "https://favicons.githubusercontent.com/cloud.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.lehnux.net.ico",
     "slug": "nextcloud-hosted",
     "status": "up",
-    "uptime": "81.22%",
+    "uptime": "81.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.22%",
+    "uptimeYear": "81.27%",
     "time": 1391,
     "timeDay": 977,
     "timeWeek": 1158,
@@ -94,7 +94,7 @@
   {
     "name": "Blog Alias",
     "url": "https://blog.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/blog.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.lehnux.net.ico",
     "slug": "blog-alias",
     "status": "down",
     "uptime": "100.00%",
@@ -112,7 +112,7 @@
   {
     "name": "HA Proxy",
     "url": "https://proxy.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/proxy.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/proxy.lehnux.net.ico",
     "slug": "ha-proxy",
     "status": "down",
     "uptime": "100.00%",
@@ -130,13 +130,13 @@
   {
     "name": "Sabnzb",
     "url": "https://sabnzb.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/sabnzb.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/sabnzb.lehnux.net.ico",
     "slug": "sabnzb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 980,
     "timeDay": 1382,
@@ -144,18 +144,19 @@
     "timeMonth": 2039,
     "timeYear": 980,
     "dailyMinutesDown": {
+      "2022-10-02": 3,
       "2022-09-29": 25
     }
   },
   {
     "name": "Radarr",
     "url": "https://radarr.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/radarr.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/radarr.lehnux.net.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 833,
@@ -164,6 +165,7 @@
     "timeMonth": 1005,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-10-02": 3,
       "2022-09-29": 25,
       "2022-02-09": 184
     }
@@ -171,7 +173,7 @@
   {
     "name": "Plex Media Server",
     "url": "https://plex.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/plex.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/plex.lehnux.net.ico",
     "slug": "plex-media-server",
     "status": "down",
     "uptime": "100.00%",
@@ -189,12 +191,12 @@
   {
     "name": "Sonarr",
     "url": "https://sonarr.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/sonarr.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/sonarr.lehnux.net.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
@@ -202,12 +204,14 @@
     "timeWeek": 1149,
     "timeMonth": 1149,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-02": 2
+    }
   },
   {
     "name": "Router",
     "url": "https://rtr.lehnux.net/",
-    "icon": "https://favicons.githubusercontent.com/rtr.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/rtr.lehnux.net.ico",
     "slug": "router",
     "status": "down",
     "uptime": "100.00%",
@@ -225,7 +229,7 @@
   {
     "name": "VPN Service",
     "url": "https://vpn.lehnux.net",
-    "icon": "https://favicons.githubusercontent.com/vpn.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/vpn.lehnux.net.ico",
     "slug": "vpn-service",
     "status": "down",
     "uptime": "100.00%",
@@ -243,7 +247,7 @@
   {
     "name": "Nextcloud Internal",
     "url": "https://next.lehnux.net",
-    "icon": "https://favicons.githubusercontent.com/next.lehnux.net",
+    "icon": "https://icons.duckduckgo.com/ip3/next.lehnux.net.ico",
     "slug": "nextcloud-internal",
     "status": "down",
     "uptime": "100.00%",
