@@ -1,7 +1,7 @@
 url: https://radarr.lehnux.net/
-status: down
-code: 404
-responseTime: 298
-lastUpdated: 2023-03-06T16:51:34.242Z
+status: up
+code: 200
+responseTime: 834
+lastUpdated: 2023-03-06T17:30:23.720Z
 startTime: Tue Feb 08 2022 15:24:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
