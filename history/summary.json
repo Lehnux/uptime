@@ -101,19 +101,19 @@
     "url": "https://blog.lehnux.net/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lehnux.net.ico",
     "slug": "blog-alias",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 381,
-    "timeWeek": 314,
-    "timeMonth": 343,
-    "timeYear": 421,
+    "time": 420,
+    "timeDay": 373,
+    "timeWeek": 320,
+    "timeMonth": 344,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-05-28": 2
+      "2023-05-28": 11
     }
   },
   {
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 1769,
     "dailyMinutesDown": {
-      "2023-05-28": 868,
+      "2023-05-28": 879,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -406,7 +406,7 @@
     "timeMonth": 0,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2023-05-28": 868,
+      "2023-05-28": 879,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 1879,
     "dailyMinutesDown": {
-      "2023-05-28": 868,
+      "2023-05-28": 879,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
