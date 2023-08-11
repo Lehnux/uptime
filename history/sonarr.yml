@@ -1,7 +1,7 @@
 url: https://sonarr.lehnux.net/
-status: up
-code: 200
-responseTime: 1296
-lastUpdated: 2023-08-11T06:22:14.200Z
+status: down
+code: 502
+responseTime: 845
+lastUpdated: 2023-08-11T11:50:08.702Z
 startTime: Tue Feb 08 2022 15:24:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
