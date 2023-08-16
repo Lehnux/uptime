@@ -1,7 +1,7 @@
 url: https://cloud.lehnux.net
-status: up
-code: 200
-responseTime: 1112
-lastUpdated: 2023-08-15T23:03:02.138Z
+status: down
+code: 503
+responseTime: 587
+lastUpdated: 2023-08-16T11:14:08.993Z
 startTime: Tue Feb 08 2022 15:41:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
